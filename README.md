@@ -2,9 +2,7 @@
 ### I am currently currently pursuing my degree in Computer Science At University of Indonesia.
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-<div style="text-align: center;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=venedictchen&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
-</div>
+<p align="center"><img align="center" src="https://my-stats-inky.vercel.app/api?username=venedictchen&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide_title=true" alt="Github Stats" /></p>
 <!--
 
 Here are some ideas to get you started:
