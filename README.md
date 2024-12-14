@@ -3,10 +3,8 @@
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=venedictchen&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=venedictchen&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
 </div>
-
-
 <!--
 
 Here are some ideas to get you started:
