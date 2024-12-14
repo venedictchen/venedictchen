@@ -1,5 +1,5 @@
 # Hi there, I'm Venedict Chen <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> </h1>
-### I am a Software Engineer enthusiast and currently currently pursuing my degree in Computer Science At University of Indonesia.
+### I am a Software Engineer enthusiast and currently pursuing my degree in Computer Science At University of Indonesia.
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <p align="center"><img align="center" src="https://my-stats-inky.vercel.app/api?username=venedictchen&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide_title=true" alt="Github Stats" /></p>
