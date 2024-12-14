@@ -2,7 +2,9 @@
 ### I am currently currently pursuing my degree in Computer Science At University of Indonesia.
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=venedictchen&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=venedictchen&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
+</div>
 
 
 <!--
