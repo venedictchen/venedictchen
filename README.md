@@ -8,8 +8,6 @@
 
 <p align="center"><img align="center" src="https://stats-vene.vercel.app/api/top-langs?username=venedictchen&show_icons=true&locale=en&layout=compact&hide=css,dart,cmake,html&theme=tokyonight&hide_border=true&hide_title=true&exclude_repo=my-stats" alt="top lang dark" /></p>
 
-[![Top Langs](https://stats-vene.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 
 Here are some ideas to get you started:
