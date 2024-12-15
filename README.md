@@ -4,9 +4,9 @@
 - 📫 How to reach me: **venedictchen@gmail.com**
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-<p align="center"><img align="center" src="https://venedict-stats.vercel.app/api?username=venedictchen&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide_title=true" alt="Github Stats" /></p>
+<p align="center"><img align="center" src="https://stats-vene.vercel.app/api?username=venedictchen&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide_title=true" alt="Github Stats" /></p>
 
-<p align="center"><img align="center" src="https://venedict-stats.vercel.app/api/top-langs?username=venedictchen&show_icons=true&locale=en&layout=compact&hide=css,dart,cmake,html&theme=tokyonight&hide_border=true&hide_title=true&exclude_repo=my-stats" alt="top lang dark" /></p>
+<p align="center"><img align="center" src="https://stats-vene.vercel.app/api/top-langs?username=venedictchen&show_icons=true&locale=en&layout=compact&hide=css,dart,cmake,html&theme=tokyonight&hide_border=true&hide_title=true&exclude_repo=my-stats" alt="top lang dark" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
