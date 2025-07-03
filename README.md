@@ -1,7 +1,21 @@
-# Hi there, I'm Venedict Chen <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> </h1>
-### I am a Software Engineer enthusiast and currently pursuing my degree in Computer Science At University of Indonesia.
+p![Header](./github-header-image.png)
 
-- 📫 How to reach me: **venedictchen@gmail.com**
+<p align="center">
+  <strong>Software Engineer · Computer Science Student @ University of Indonesia</strong><br>
+  Enthusiastic about building software, solving problems, and always learning.
+</p>
+
+---
+
+<h3 align="center">🧠 About Me</h3>
+
+<p align="center">
+  🎓 Currently deepening my knowledge in <strong>Computer Science</strong> <br>
+  🛠️ Passionate about <strong>Software Engineering</strong>, <strong>Web Development</strong>, and building impactful products <br>
+  📫 Reach me at <a href="mailto:venedictchen@gmail.com"><strong>venedictchen@gmail.com</strong></a>
+</p>
+
+
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <p align="center"><img align="center" src="https://stats-vene.vercel.app/api?username=venedictchen&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide_title=true" alt="Github Stats" /></p>
