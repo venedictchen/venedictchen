@@ -1,4 +1,4 @@
-p![Header](./github-header-image.png)
+![Header](./github-header-image.png)
 
 <p align="center">
   <strong>Software Engineer · Computer Science Student @ University of Indonesia</strong><br>
